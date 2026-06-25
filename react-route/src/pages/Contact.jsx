@@ -12,7 +12,7 @@ function Contact() {
           <p>
             <span className="font-semibold">📍 Address:</span>
             <br />
-            123 Main Street, Chennai, Tamil Nadu
+            MMMXMAJNJKFNWKFNJE
           </p>
 
           <p>
